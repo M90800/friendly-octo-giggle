@@ -1,4 +1,4 @@
-!Auto Assign](https://github.com/Nokia2sd/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+d6d06a7066deca6feec87769582611b13c1d68c4!Auto Assign](https://github.com/Nokia2sd/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
 ![Proof HTML](https://github.com/Nokia2sd/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
